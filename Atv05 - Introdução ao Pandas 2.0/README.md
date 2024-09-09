@@ -2,13 +2,15 @@
 
 ## Atividade Proposta:
 Criar um DataFrame com o nome frutas no seguinte formato:
-
-|---|Maça|Banana|
+| | |
+|------|-------|
+| Maça|Banana|
 |0|30|20|
 
 Criar um DataFrame com o nome vendas_frutas no seguinte formato:
-
-|---|Maça|Banana|
+| | | |
+|-----|-----|-----|
+| |Maça|Banana|
 |Vendas 2022|1000|700|
 |Vendas 2023|5000|2000|
 
